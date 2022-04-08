@@ -80,7 +80,7 @@ public class Main {
                         
                     }else{
                         System.out.println("INFORMATION: FAILED");
-                        System.out.println("Sorry to"+AndroDev.getName()+"has been denied");
+                        System.out.println("Sorry to"+AndroDev.getName()+" has been denied");
                     }
                     break;
                 case 3:
@@ -126,7 +126,7 @@ public class Main {
                         
                     }else{
                         System.out.println("INFORMATION: FAILED");
-                        System.out.println("Sorry to"+WebDev.getName()+"has been denied");
+                        System.out.println("Sorry to"+WebDev.getName()+" has been denied");
                     }
                     break;
                 case 3:
